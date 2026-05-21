@@ -1,4 +1,4 @@
-🌍 Global Income Inequality Analysis
+#🌍 Global Income Inequality Analysis
 
 A data-driven web application built using Python and Streamlit to analyze and visualize global income inequality trends using publicly available datasets.
 
